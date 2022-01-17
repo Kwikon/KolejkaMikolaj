@@ -1,0 +1,16 @@
+C:\Users\mikiz\source\repos\KolejkaMikolaj\KolejkaMikolaj\bin\Debug\netcoreapp3.1\KolejkaMikolaj.exe
+C:\Users\mikiz\source\repos\KolejkaMikolaj\KolejkaMikolaj\bin\Debug\netcoreapp3.1\KolejkaMikolaj.deps.json
+C:\Users\mikiz\source\repos\KolejkaMikolaj\KolejkaMikolaj\bin\Debug\netcoreapp3.1\KolejkaMikolaj.runtimeconfig.json
+C:\Users\mikiz\source\repos\KolejkaMikolaj\KolejkaMikolaj\bin\Debug\netcoreapp3.1\KolejkaMikolaj.runtimeconfig.dev.json
+C:\Users\mikiz\source\repos\KolejkaMikolaj\KolejkaMikolaj\bin\Debug\netcoreapp3.1\KolejkaMikolaj.dll
+C:\Users\mikiz\source\repos\KolejkaMikolaj\KolejkaMikolaj\bin\Debug\netcoreapp3.1\KolejkaMikolaj.pdb
+C:\Users\mikiz\source\repos\KolejkaMikolaj\KolejkaMikolaj\obj\Debug\netcoreapp3.1\KolejkaMikolaj.csproj.AssemblyReference.cache
+C:\Users\mikiz\source\repos\KolejkaMikolaj\KolejkaMikolaj\obj\Debug\netcoreapp3.1\KolejkaMikolaj.Form1.resources
+C:\Users\mikiz\source\repos\KolejkaMikolaj\KolejkaMikolaj\obj\Debug\netcoreapp3.1\KolejkaMikolaj.csproj.GenerateResource.cache
+C:\Users\mikiz\source\repos\KolejkaMikolaj\KolejkaMikolaj\obj\Debug\netcoreapp3.1\KolejkaMikolaj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikiz\source\repos\KolejkaMikolaj\KolejkaMikolaj\obj\Debug\netcoreapp3.1\KolejkaMikolaj.AssemblyInfoInputs.cache
+C:\Users\mikiz\source\repos\KolejkaMikolaj\KolejkaMikolaj\obj\Debug\netcoreapp3.1\KolejkaMikolaj.AssemblyInfo.cs
+C:\Users\mikiz\source\repos\KolejkaMikolaj\KolejkaMikolaj\obj\Debug\netcoreapp3.1\KolejkaMikolaj.csproj.CoreCompileInputs.cache
+C:\Users\mikiz\source\repos\KolejkaMikolaj\KolejkaMikolaj\obj\Debug\netcoreapp3.1\KolejkaMikolaj.dll
+C:\Users\mikiz\source\repos\KolejkaMikolaj\KolejkaMikolaj\obj\Debug\netcoreapp3.1\KolejkaMikolaj.pdb
+C:\Users\mikiz\source\repos\KolejkaMikolaj\KolejkaMikolaj\obj\Debug\netcoreapp3.1\KolejkaMikolaj.genruntimeconfig.cache
